@@ -25,3 +25,35 @@ Ok. I think I may have got it. I will probably just use an RP2040, which will tu
 <sub> I basically just spent the entire day debating this problem, but didn't have too much to journal about... </sub>
 
 ### HOURS: 6/10
+
+## Day 3: 7/17: Rabbit Hole
+
+I decided I wanted more juice. And I fell down a rabbit hole..
+
+Let me start from the begininng.
+
+I had a trade off. I had to have one:
+
+Either, my watch would be a literal tree. It would be so big, that it would look so clumsy and stuff and just be all around weird:
+
+![download](https://github.com/user-attachments/assets/ee06ba57-3fe6-4919-837d-9c954aa20f51)
+
+Or, it would have very little battery life, something like a day's worth
+
+<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/dd31926e-2fa4-446b-b97e-e0877dcbfb1d" />
+
+Or, it would just be a play old boring watch...
+
+So, I decided, I will solve the power problem.
+
+Enter: !!RABIT HOLE!!
+
+So I fell down a rabbit hole of different batteries and all that junk. I even questioned my screen choice!
+
+But all in all, I managed to pull my self out. I will just use either one or two LIR2032 batteries, and all will be well... I hope.
+
+Ok, well either way, I am thinking of having a switch. When the switch is on, it will be on bye-bye-power mode. Basically, the battery life will be very short, less than 12 hours, however you will get full functionallity. However, when you really need to save battery life, you will be able to flick the switch, and it will turn everything off other than the RTC. You will be able to press a button, turning the watch on for ~5 seconds, and then it will shut everything back off.
+
+I will now (maybe) start designing!!
+
+### HOURS: 3.5/13.5
