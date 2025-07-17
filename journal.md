@@ -24,4 +24,4 @@ Ok. I think I may have got it. I will probably just use an RP2040, which will tu
 
 <sub> I basically just spent the entire day debating this problem, but didn't have too much to journal about... </sub>
 
-HOURS: 6/10
+### HOURS: 6/10
