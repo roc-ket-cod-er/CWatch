@@ -1,4 +1,5 @@
 # Journal: How I made a watch
+<sub> Hours formatting is "HOURS: today/total" </sub>
 
 ## Day 1: 7/15: Display & Brainstorming.
 Today, I spent my time thinking about the idea. I have two main challenges. First of all, power consumption. As I don't have infinite battery, the watch is going to have to be able to be super power efficient. Even after exploring solutions for a good 2ish hours, I still don't know what to do. The STM32 series seems too complicated, while the RP2040, a chip I have experience with, isn't very power efficient.
@@ -19,3 +20,8 @@ Before I start the PCB design, I need to find a suitable way to wake the entire 
 
 I was thinking that a button on the side would be okay, but that just doesn't seem very easy. I could maybe keep the chip on the entire time, and when it detects the right motion it could turn on, but that is bad for battery life, etc. What to do ... what to do.
 
+Ok. I think I may have got it. I will probably just use an RP2040, which will turn on when you shake the watch. This will then be good enough. Either way, I will either use the ESP32-WROOM-32D-N16, as it is one of the only modules supported for economic PCBA, or I will use the RP2040. I might just make it so that the watch needs to be charged every night... That way it will be just fine to stay on 24/7.
+
+<sub> I basically just spent the entire day debating this problem, but didn't have too much to journal about... </sub>
+
+HOURS: 6/10
