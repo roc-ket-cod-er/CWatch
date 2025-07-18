@@ -56,4 +56,10 @@ Ok, well either way, I am thinking of having a switch. When the switch is on, it
 
 I will now (maybe) start designing!!
 
-### HOURS: 3.5/13.5
+Ok, a bit of designing later, here I am:
+
+<img width="438" height="439" alt="image" src="https://github.com/user-attachments/assets/b2014ef9-d775-412f-9585-96514db544cf" />
+
+But, I have sort of realized a problem. I had to go through some trouble with the USB-C and stuff, but it was all in all a whole lot easier than the last time, mainly because I have experience!
+
+### HOURS: 5/15
