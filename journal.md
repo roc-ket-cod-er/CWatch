@@ -56,10 +56,22 @@ Ok, well either way, I am thinking of having a switch. When the switch is on, it
 
 I will now (maybe) start designing!!
 
-Ok, a bit of designing later, here I am:
+Ok, a bit of designing later, here I am. (the main chip is the rp2040, and you can see that I added a buck boost so that it can use a single sell liion):
 
 <img width="438" height="439" alt="image" src="https://github.com/user-attachments/assets/b2014ef9-d775-412f-9585-96514db544cf" />
 
 But, I have sort of realized a problem. I had to go through some trouble with the USB-C and stuff, but it was all in all a whole lot easier than the last time, mainly because I have experience!
 
 ### HOURS: 5/15
+
+## Day 4: 7/18: ESP32!!
+
+Today, I decided. You know how I was using the rp2040? Well, I think I am going to use the ESP32. It just has the wifi stuff, and is also just seeming to be a better choice as it has a low power mode to. I feel like the wifi part would really start to make it feel truly professional, as it would be possible to connect to any phone and, for example, make it take a picture.
+
+So I got to it. I did some basic stuff like copy-ishing the base schematic, but I also spent a good chunk of my time researching all the stuff, to make sure that I have the right idea and don't misinterpret something (like pF for uF).
+
+Here's my schematic so far:
+
+<img width="548" height="594" alt="image" src="https://github.com/user-attachments/assets/2730a9d7-b175-4d1d-b574-9e6d4fe4b523" />
+
+Also, I am going to be using 2 pcbs. One will be in the middle, having some stuff, and the other having the rest. I am thinking that the IMU will be on the lower one, with the other components fit around it, and the upper pcb will have the other components, notabley the main computer, and whatever else I deem needed.
