@@ -75,3 +75,17 @@ Here's my schematic so far:
 <img width="548" height="594" alt="image" src="https://github.com/user-attachments/assets/2730a9d7-b175-4d1d-b574-9e6d4fe4b523" />
 
 Also, I am going to be using 2 pcbs. One will be in the middle, having some stuff, and the other having the rest. I am thinking that the IMU will be on the lower one, with the other components fit around it, and the upper pcb will have the other components, notabley the main computer, and whatever else I deem needed.
+
+<img width="778" height="727" alt="image" src="https://github.com/user-attachments/assets/906ffb68-bbe5-4a72-b868-270859ff8272" />
+
+Ok. I think I have basically finished PCB1, as you can see here!
+
+It has the RTC, the ESP32, and the USB-C connector, so basically all the basic computational stuff. There are some 17 pins that I will use to communicate with the other PCB. I should probably rewire them to use a better connector, but hey, this is all I got. Because it only uses two layers, however, most of the wiring was actually rather tough, as I also have a very large component (the battery holder) that can't have wires running through it.
+
+I do have some space left, but that can be used as extra space for more layer to layer connectors...
+
+I could go into more detail, but I have gotten so late working on this, and I have a bad runny nose, so I have got to go.
+
+Just so you know, I did a whole lot of datasheet searching and stuff, but I don't have time to explay right now :(
+
+### HOURS: 6/21
