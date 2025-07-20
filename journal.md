@@ -89,3 +89,19 @@ I could go into more detail, but I have gotten so late working on this, and I ha
 Just so you know, I did a whole lot of datasheet searching and stuff, but I don't have time to explay right now :(
 
 ### HOURS: 6/21
+
+## DAY 5: 7/20: Wiring, and batteries. Again.
+
+So, remember when I fell down that battery finding rabbit hole? Well, that happened to me again. Let me explain.
+
+So I was going around, thinking that more battery capacity would equal better, and I thought, ooh wouldn't it be nice to find a better, bigger, coin cell?
+
+So I went to my (not so) trusty partner, ChatGPT, and well, got absolutly nothing useful out of it. Of the not-hallucinated coin-cells it told me, way to many of them weren't availible. Questioning myself, I checked if my original battery was availible anywhere near me, so then I really panicked.
+
+Panick Panick Panick
+
+Ok. Once I had calmed down, I then went looking for new batteries. I tried AAAA batteries, but there weren't any holders on LCSC. I tried AAA batteries, but they were too fat. Finally, I looked at LiPo. The very same ones that I tried before. But this time, I reallized something; the battery I chose, I could build my PCB around. As long as the battery was within size, I could work with basically any battery.
+
+So, that's where it leaves me. Right now, I am working on finishing up the PCB: I have added the battery terminal, and just am about to work on some power saving circuitry...
+
+### HOURS 3/24.
