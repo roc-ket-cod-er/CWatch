@@ -135,3 +135,5 @@ Here is my current PCB stuff, all joined togeather. I am going to get some dimen
 <img width="725" height="676" alt="image" src="https://github.com/user-attachments/assets/1fca7008-5d13-4bc7-960d-fdf877efde94" />
 
 <sub> I also updated some things in the PCB, as I noticed I completely forgot to wire some connections up :) </sub>
+
+Well that was weird.. I was just working on seeing what more I can add by making a 3D model, and Fusion just crashed?!...
