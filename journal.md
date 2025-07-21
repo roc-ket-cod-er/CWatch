@@ -137,3 +137,13 @@ Here is my current PCB stuff, all joined togeather. I am going to get some dimen
 <sub> I also updated some things in the PCB, as I noticed I completely forgot to wire some connections up :) </sub>
 
 Well that was weird.. I was just working on seeing what more I can add by making a 3D model, and Fusion just crashed?!...
+
+UPDATE
+
+I am trying to find a spot to fit the GNSS (GPS) module in, but it can't be driectly under everything, or it looks to thick and won't have good reception
+
+<img width="578" height="537" alt="image" src="https://github.com/user-attachments/assets/86f876a8-3c60-4a3b-87da-86215b8733b8" />
+
+So then I need to figure out what to do. I have already spent soo much time on this... what to do, what to do?
+
+
