@@ -104,4 +104,27 @@ Ok. Once I had calmed down, I then went looking for new batteries. I tried AAAA 
 
 So, that's where it leaves me. Right now, I am working on finishing up the PCB: I have added the battery terminal, and just am about to work on some power saving circuitry...
 
-### HOURS 3/24.
+Oki doki
+
+Here's my first PCB (the one sitting furthest from the screen), 
+
+<img width="739" height="716" alt="image" src="https://github.com/user-attachments/assets/6f351a0e-e311-4e05-b962-546fe09cc7cd" />
+
+And, as you can see, it will connect to the middle PCB
+
+<img width="739" height="781" alt="image" src="https://github.com/user-attachments/assets/a3e61cb6-200b-4816-80e1-6d7b22156a2b" />
+
+I cut out a hole for the JST connector, to absolutely save every little bit of space I can...
+
+Here is the IMU part of it, this took quite some time as it runs off of 1.8V logic, while everything else is 3.3V
+
+Oh, yeah I also worked on the lipo charger, which runs off of the USB-C port.
+
+Because of the fact that there is litterally no space left on the board, its components are scattered everywhere. Honestly, I am actually really surpised that I was able to fit everything onto such a small board!
+
+I am thinking of adding GPS to the entire assembly, but then one of the boards will have to use 2-sided assembly, which costs significantly more. I might just solder on the the GPS module, and as it has most of its circuitry in-built, it might be nice...
+
+![51rD8sx03ML _AC_SX425_](https://github.com/user-attachments/assets/afde9257-ec3f-4cbf-81f7-75ffcd41c4a4)
+
+### HOURS 6.5/27.5.
+
