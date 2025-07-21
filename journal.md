@@ -128,3 +128,10 @@ I am thinking of adding GPS to the entire assembly, but then one of the boards w
 
 ### HOURS 6.5/27.5.
 
+## DAY 6: 7/21: 3D and PCB
+
+Here is my current PCB stuff, all joined togeather. I am going to get some dimensions and see if I can add the GPS module...
+
+<img width="725" height="676" alt="image" src="https://github.com/user-attachments/assets/1fca7008-5d13-4bc7-960d-fdf877efde94" />
+
+<sub> I also updated some things in the PCB, as I noticed I completely forgot to wire some connections up :) </sub>
