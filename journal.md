@@ -146,4 +146,20 @@ I am trying to find a spot to fit the GNSS (GPS) module in, but it can't be drie
 
 So then I need to figure out what to do. I have already spent soo much time on this... what to do, what to do?
 
+OKI DOKI!!!!!!!!!
 
+Here is what I have!
+
+<img width="765" height="531" alt="image" src="https://github.com/user-attachments/assets/a559add6-1c1f-4697-a4a3-b30dd8168900" />
+
+Basically, this is the entire watch module thingy. Top to bottom, its about 2cm, with a diameter of 4.8 cm. I may have to add another 7~8mm for the GPS module, as a main goal of this watch was to be able to tell your speed...
+
+Just so you know, this took me sooooooo ridiculously long as I had to come up with so many new ideas on the go, as previous ideas kept feeling worse...
+
+<img width="741" height="753" alt="image" src="https://github.com/user-attachments/assets/2ce0d1c3-c09d-4f1f-b61d-6302f3634111" />
+
+Anyways, you can even see that I modeled in some spaces so that the battery could fit probably, and if I chose to go with one 4-layer, standard assembly board (I know its more expensive, but it saves me around 2mm...) I could then add the GNSS module on to another layer. I am thinking, however, I am going to add a 3rd PCB, which will just contain the GNSS and the stuff it requries to work. I will, however, need to get the mousebites stuff to work, as there is now way 3 individually assembled boards will work, or maybe I could chose bigger components and assemble myself? I am not too good with this stuff...
+
+Oh well, a task for tomorow.
+
+### HOURS 6 / 33.5
