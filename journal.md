@@ -195,3 +195,17 @@ Its sort of sad that I have one over crammed PCB, and two other PCBs with like o
 Well, yah das about it. I also bikes like ~20 kilometers today, so yay?
 
 ### HOURS 5.5/39
+
+## Day 8: 7/23: Finally, Finished
+
+Ok. Today, I have finished!
+
+I have decided not to use the mousbite-ification as it is just too complicated, and when I combine the PCBs, lots of things just don't work. I really did try to get it to work, but I don't think it will. I also added a photoresistor, a buzzer, and a microphone. The mic took the majority of the time, as I had to learn about I2S first, a completely foreign topic to me.
+
+<img width="1135" height="438" alt="image" src="https://github.com/user-attachments/assets/bf007a2c-7ba3-4908-aa96-0a44e6fe5759" />
+
+<img width="796" height="408" alt="image" src="https://github.com/user-attachments/assets/1e6b516a-c284-4173-9bc1-d2d9ece96cd0" />
+
+Well ima a go submit it now. I won't add the hours for submitting, and thus I will only add 3.5 hours today
+
+### Hours 3.5/42.5
