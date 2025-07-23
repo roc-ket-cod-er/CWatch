@@ -163,3 +163,35 @@ Anyways, you can even see that I modeled in some spaces so that the battery coul
 Oh well, a task for tomorow.
 
 ### HOURS 6 / 33.5
+
+## Day 7: 7/22: Finish?
+
+I may have finished.
+
+Finished.
+
+Finished!
+
+Finished!!!!!!!!!!!!!!!
+
+Oki lemme explain:
+
+So today, I finished the GPS,
+
+<img width="451" height="478" alt="image" src="https://github.com/user-attachments/assets/e6e64ee9-6d9b-47e4-b3af-6704c34975fc" />
+
+Finished the case,
+
+<img width="699" height="666" alt="image" src="https://github.com/user-attachments/assets/9eb6d779-7fe8-4d41-aeba-46792c699904" />
+
+<img width="632" height="573" alt="image" src="https://github.com/user-attachments/assets/3d8198a1-b471-45b9-9bdd-fcab5c43bf98" />
+
+(Just need to add the outside thingy that goes around your wrist)
+
+And placed down 165 mousbites. 5 at a time. Literally took me ages. But hey, a ~$30 saving is worth a few hours of work!
+
+Its sort of sad that I have one over crammed PCB, and two other PCBs with like on component on them each... I can't combine the two as the GPS needs to stay away form everything, and they're all just adding so much hight :(
+
+Well, yah das about it. I also bikes like ~20 kilometers today, so yay?
+
+### HOURS 5.5/39
