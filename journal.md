@@ -206,6 +206,10 @@ I have decided not to use the mousbite-ification as it is just too complicated, 
 
 <img width="796" height="408" alt="image" src="https://github.com/user-attachments/assets/1e6b516a-c284-4173-9bc1-d2d9ece96cd0" />
 
-Well ima a go submit it now. I won't add the hours for submitting, and thus I will only add 3.5 hours today
+Well ima a go submit it now.
 
-### Hours 3.5/42.5
+I was going though my BOM, and now the cost is around ~200.
+
+I honestly have no Idea what to do. Been spending all my time on this...
+
+### Hours 4.5/43.5
