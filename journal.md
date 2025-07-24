@@ -1,3 +1,10 @@
+---
+title: "CWatch"
+author: "Madhav"
+description: "A custom smart watch"
+created_at: "2025-07-15"
+---
+
 # Journal: How I made a watch
 <sub> Hours formatting is "HOURS: today/total" </sub>
 
