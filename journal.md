@@ -202,14 +202,32 @@ Ok. Today, I have finished!
 
 I have decided not to use the mousbite-ification as it is just too complicated, and when I combine the PCBs, lots of things just don't work. I really did try to get it to work, but I don't think it will. I also added a photoresistor, a buzzer, and a microphone. The mic took the majority of the time, as I had to learn about I2S first, a completely foreign topic to me.
 
+In more detail, I spent the majority of my time trying to figure out if adding a mic and speaker would be possible, but eventually decied that a speaker would be too much, so I have decided to go ahead and just add a microphone and a buzzer. It will limit what is doable, but it will alse greatly reduce complexity, and save me from learning 2 completely new topics, speaker driving and I2S for the mic
+
+Also, it would be unlikely for my thing to have enough space for a speaker, as cool as it would be...
+
 <img width="1135" height="438" alt="image" src="https://github.com/user-attachments/assets/bf007a2c-7ba3-4908-aa96-0a44e6fe5759" />
 
 <img width="796" height="408" alt="image" src="https://github.com/user-attachments/assets/1e6b516a-c284-4173-9bc1-d2d9ece96cd0" />
 
 Well ima a go submit it now.
 
-I was going though my BOM, and now the cost is around ~200.
+---------
 
-I honestly have no Idea what to do. Been spending all my time on this...
+ummm. k i sort of have a problem... I was going though my BOM, and now the cost is around ~200. I don't really know how to shave off the cost, without sacrificing
+
+I honestly have no idea what to do. I've been spending all my time on this...
+
+I have tried panelizing my 3 PCBs, again, and now its giving me another error,
+
+<img width="409" height="148" alt="image" src="https://github.com/user-attachments/assets/531797cd-6dbd-4d32-b550-ac49131b8611" />
+
+<img width="479" height="181" alt="image_480" src="https://github.com/user-attachments/assets/c54a6ed9-97cf-4403-8bf5-df161512606d" />
+
+I guess I just don't yet know too much about panelization, but its just a bit too much. I have actually spent way too much time trying to get it to work...
+
+Also, I have not yet finished designing the case, I just realized...
+
+Though, honestly, all I need to do is desing the wrist band the thing that keeps it attached to my arm.
 
 ### Hours 4.5/43.5
