@@ -263,6 +263,41 @@ According to the mischeivious ChatGPT, apparently the FAQ's maximum power consum
 
 Good thing I checked this. I am thinking of adding some high-side mosfet switches to save even more power on some components, so its ULP (Ultra-Low-Power) mode can hopefully last for months.
 
+#### Hold that though
+
+Let's do some math.
+
+The screen, in lowest power mode, probably draws around 3 mA. This alone, on a 300 mAh battery would make it last around 100 hours, or around 4 days. So, it is, in fact, essential to provide a way to switch on and off the screen. I am thinking of dedicating one IP (Inter-PCB) connector. Currently, I have 23 IP pins, and well I am sort of running out of space. I might make one of the ground pins into a controlled GND (via N-Channel MOSFET)
+
+<img width="565" height="530" alt="image" src="https://github.com/user-attachments/assets/ec3af5cf-03fa-4355-8a4b-9c893698268e" />
+
+There, I added 5 more IP pins. They are connected to IO 1-3, 39 and 40
+
+--
+
+I have had an idea that it sure would be nice to be able to tell how much power the battery has left, so I decided I am going to add an INA226. It is a high sensitivity, low power drawing chip that can measure the battery and the current draw. Using the current draw, it can be estimated the amount of battery life left.
+
+I could have just measured the voltage, however I would need a voltage divider, and even using 2x 100K resistors, it would still have a leakage current of around 20 uA. This alone is not huge, however there is no way of turning it off, and it would just constantly draw this power, greatly reducing battery life.
+
+Instead, I am thinking of using the INA because I have some experience with it, and well it just seems like it would be nice to know how much battery is left, y'know.
+---
+
+Well. That took WAYYYYYYYY TOOOO long. I have no idea why, but its probably because of how dense the board is.
+
+<img width="1154" height="891" alt="image" src="https://github.com/user-attachments/assets/c0c269e1-59e7-4c28-9a6a-5755b0de2c9f" />
+
+This might not look like a lot, and the schematic isn't too bad either, 
+
+<img width="894" height="573" alt="image" src="https://github.com/user-attachments/assets/76d1fb89-3e84-4b60-9d90-3cdb2a6477b3" />
+
+However, the thing is, when you have all of your stuff all cramped into the same area, running simple dataline like the SDA/SCL lines can make everything a real pain. Adding even one thing can mean reconfiguring so much of the board, as all the ground and power planes are all so sensitive...
+
+<img width="927" height="848" alt="image" src="https://github.com/user-attachments/assets/b3a9a4d7-e017-4d25-aa21-57d2c1cb1805" />
+
+<img width="941" height="838" alt="image" src="https://github.com/user-attachments/assets/fbb6f75f-6e45-41d5-83b9-662744053185" />
+
+The SD card doesn't help much.
+
 ---
 
 <sub>Also, a side note, I am going to try and journal with more detail. Previously, about 2% of my time went to journalling, and I think I am going to up that to 5%, as these journals just seem to be a bit bland and lacking detail</sub>
