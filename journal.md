@@ -219,7 +219,7 @@ Also, it would be unlikely for my thing to have enough space for a speaker, as c
 
 Well ima a go submit it now.
 
----------
+---
 
 ummm. k i sort of have a problem... I was going though my BOM, and now the cost is around ~200. I don't really know how to shave off the cost, without sacrificing
 
@@ -246,3 +246,9 @@ Oki, so today, after one day of break, I am back to working on this watch.
 A really cool thing I figured out is that GPS modules also output time, and thus my RTC might be a bit redundant. I think it is, however, still a good idea to have an RTC, as it can provide time at a very low power.
 
 Well yeah, thats just something I realized...
+
+---
+
+<sub>Also, a side note, I am going to try and journal with more detail. Previously, about 2% of my time went to journalling, and I think I am going to up that to 5%, as these journals just seem to be a bit bland and lacking detail</sub>
+
+### HOURS 0.5/44.5
