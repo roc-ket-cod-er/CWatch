@@ -238,3 +238,11 @@ Also, I have not yet finished designing the case, I just realized...
 Though, honestly, all I need to do is desing the wrist band the thing that keeps it attached to my arm.
 
 ### Hours 4.5/43.5
+
+## Day 9: 7/25: General Research and Improvements
+
+Oki, so today, after one day of break, I am back to working on this watch.
+
+A really cool thing I figured out is that GPS modules also output time, and thus my RTC might be a bit redundant. I think it is, however, still a good idea to have an RTC, as it can provide time at a very low power.
+
+Well yeah, thats just something I realized...
