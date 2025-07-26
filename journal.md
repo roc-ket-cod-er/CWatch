@@ -253,7 +253,7 @@ And it gets worse from hear in out. I was doing some datasheet diving, with the 
 
 <img width="705" height="394" alt="image" src="https://github.com/user-attachments/assets/05d33127-89ee-4c2e-b13d-e86c9ff5f79b" />
 
-However, the daatahseet says that there are 6 different power levels, so it is probably ok if I switch in between them to save power, and on the extreme power save mode, it is acutally nice.
+However, the datahseet says that there are 6 different power levels, so it is probably ok if I switch in between them to save power, and on the extreme power save mode, it is acutally nice.
 
 I can switch the screen off (slowly) whenever there is a long absence of touch, and whenever the watch is touched, it can then turn everything on!
 
@@ -302,4 +302,6 @@ The SD card doesn't help much.
 
 <sub>Also, a side note, I am going to try and journal with more detail. Previously, about 2% of my time went to journalling, and I think I am going to up that to 5%, as these journals just seem to be a bit bland and lacking detail</sub>
 
-### HOURS 0.5/44.5
+### HOURS 4.5/48
+
+## Day 10:
