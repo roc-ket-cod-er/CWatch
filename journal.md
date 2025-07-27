@@ -304,4 +304,12 @@ And the SD card definitely didn't help.
 
 ### HOURS 4.5/48
 
-## Day 10:
+## Day 10: More brain-strorming
+
+Today, I spent some time thinking of what features to add. I spent a good hours or so, but I haven't really came up with much. I feel like I already have the stuff required for a smartwatch, and I might just need to add the MOSFETS, and finish the 3D model.
+
+I am also thinking of having it so that there is a home screen and you swipe around to 3 commonly used pages, and an app page containing the other stuff...
+
+Well I'm going to sign off now, as today has been a busy day (I had a familly event today, and thus I could only do some brain-storming. I wil also think about this before I go to bed...
+
+### HOURS: 1.5 (49.5)
