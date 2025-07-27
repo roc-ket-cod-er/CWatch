@@ -296,7 +296,7 @@ However, the thing is, when you have all of your stuff all cramped into the same
 
 <img width="941" height="838" alt="image" src="https://github.com/user-attachments/assets/fbb6f75f-6e45-41d5-83b9-662744053185" />
 
-The SD card doesn't help much.
+And the SD card definitely didn't help.
 
 ---
 
