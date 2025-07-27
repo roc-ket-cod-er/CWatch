@@ -346,6 +346,8 @@ Not to mention it was only $1.15 with the welcome coupon, or $8.71 without.
 
 I was double checking my cirucits, and I realized I completely forgot the auto-reset circuit!
 
-Will fix
+Will fix.
+
+NVM false alarm. That was for the UART programmer, which I'm not using...
 
 ### HOURS:2.5/52 
