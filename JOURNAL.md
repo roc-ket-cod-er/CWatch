@@ -342,4 +342,10 @@ Its pretty nice, in my opinion (not as good as the one on amazon, but still) and
 
 Not to mention it was only $1.15 with the welcome coupon, or $8.71 without.
 
-HOURS:2.5/52 
+---
+
+I was double checking my cirucits, and I realized I completely forgot the auto-reset circuit!
+
+Will fix
+
+### HOURS:2.5/52 
