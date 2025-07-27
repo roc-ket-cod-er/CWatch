@@ -313,3 +313,33 @@ I am also thinking of having it so that there is a home screen and you swipe aro
 Well I'm going to sign off now, as today has been a busy day (I had a familly event today, and thus I could only do some brain-storming. I wil also think about this before I go to bed...
 
 ### HOURS: 1.5 (49.5)
+
+## Day 11: Watch Bands & Other features.
+
+Today was another day of brain-storming. I really want to make this project justify its cost, and thus I have decided to try to add as many features as possible. As I will be having voice commands, I was thinking that I should add an AI accelerator to make everything run on as little power as possible, however I couldn't really find a good way to integrate it, so yeah
+
+---
+
+On another front, today I explored watch bands and stuff. I had been spending some time thinking of how to connect the main watch part of it all to my hand, and I really like the way my current watch connects to my wrist, so I decided to look for a similar one.
+
+My first stop was to look for a buckle. I really had like this one:
+
+<img width="2560" height="2560" alt="image" src="https://github.com/user-attachments/assets/b8f746ad-3bfe-4dc0-ac35-13eff9aaa0f3" />
+
+However, it was CA$4 plus shipping, feeling a bit expensive for a buckle. After that, I contemplated if the buckle would even be all I needed, as I can't print flexible items; some of the only 3D printable materials that cand bend are also notoriously hard to print. This is then compounded by the fact that the only 3D printer I have access to is at my local library, and thus can only print PLA (very, very fast).
+
+So then, I looked for a complete strap. I found an absolutely terrific strap, one that I really liked, however it was a bit expensive, ~CA$15, plus $5 shipping.
+
+<img width="616" height="659" alt="image" src="https://github.com/user-attachments/assets/d3a8d6f2-8fc1-4f1e-b34d-59163acb4af8" />
+
+So then, I went to one the sites I find the least trust-worthy: aliexpress...
+
+And I found this band:
+
+<img width="455" height="450" alt="image" src="https://github.com/user-attachments/assets/f64055a9-2f30-43b3-a8cc-0ac12cd30ab4" />
+
+Its pretty nice, in my opinion (not as good as the one on amazon, but still) and it just feels like it would be easy-ish to use.
+
+Not to mention it was only $1.15 with the welcome coupon, or $8.71 without.
+
+HOURS:2.5/52 
