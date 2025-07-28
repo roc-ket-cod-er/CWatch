@@ -314,7 +314,7 @@ Well I'm going to sign off now, as today has been a busy day (I had a familly ev
 
 ### HOURS: 1.5 (49.5)
 
-## Day 11: Watch Bands & Other features.
+## Day 11: 7/27: Watch Bands & Other features.
 
 Today was another day of brain-storming. I really want to make this project justify its cost, and thus I have decided to try to add as many features as possible. As I will be having voice commands, I was thinking that I should add an AI accelerator to make everything run on as little power as possible, however I couldn't really find a good way to integrate it, so yeah
 
@@ -351,3 +351,68 @@ Will fix.
 NVM false alarm. That was for the UART programmer, which I'm not using...
 
 ### HOURS:2.5/52 
+
+## Day 12: 7/28: Double Checking PCB stuff.
+
+Today, I worked on making sure that all my PCB stuff was good to go.
+
+I still have to add the NMOS switches, but as it stands right now, all of my schematics seem to be right. I did catch a problem for the buzzer driver, as I had directly wire the io pin to the transistor, but I have now corrected that by adding a 2.2k resistor.
+
+I am also thinking of adding a hardware switch,
+
+<img width="728" height="519" alt="image" src="https://github.com/user-attachments/assets/e5cabf84-c59d-4149-948f-5011458905f7" />
+
+So that it can inturupt deep sleep mode and get back to working. If I use the mosfets to switch on and off all (but the RTC) devices, they should consume <1 mA, more like ~300 uA, which should extend the 100 Hours to about 1000 hours, or ~4 days to ~42.
+
+Well yeah, time to get MOSFETing!
+
+---
+
+First up, look for a MOSFET.
+
+There are 4 types of MOSFETS, and I know that N-channel MOSFETS are for low side switches...
+
+ooh! what if I use a speaker? I thought. And fell down another rabit hole. The speaker would be cool, however I felt like that would be a bit too much to learn, so I figured that I shouldn't do it, even though I had found all the nessasary parts...
+
+Anyways, back to MOSFETs. Personally, I like the BSS138 N-Channel MOSFET, So that will work, however it is a low side MOSFET, so it might be difficult to use in some cases...
+
+Well I'm going to go watch (at 2x) a 20-minute MOSFET video and get back to you...
+
+---
+
+I tried implementing low-side switching, and once I had finished it all, I realized something. A big fat mistake.
+
+The thing is, I2C really only need 3 wires. 3.3V for power, along with SDA and SCL. You can completely elimintate the GND wire, as, especially in a one bus system, one of the lines will likely stay low for long enought to be the ground of the reciever. That would mean that all my work was basically for nothing, and I will have to restart with high-side switching.
+
+I had actually renamed some 10+ GNDs to make sure it would work, and its just so sad to have to undo it all.
+
+Well time to implement High-Side Switching!
+
+---
+
+Finally. I finally added the main High-Side Switch, and that was way too much work. Let me explain:
+
+Remember when I said I had already crammed an insane amount of components in as little space as possible? Well every change causes soooo many disturbances, and I had to do it twice.
+
+<img width="631" height="635" alt="image" src="https://github.com/user-attachments/assets/0a4616dd-63fb-4a01-a6a3-478c664d32ae" />
+
+<img width="902" height="756" alt="image" src="https://github.com/user-attachments/assets/dbade2b6-ddfa-4bb8-a563-2d379641e84f" />
+
+Above, you can see the complexity of just one of my PCBs, all on a 2-layer board.
+
+<img width="1000" height="670" alt="image" src="https://github.com/user-attachments/assets/23421b9c-cfef-4d6d-936d-aa90adf7d279" />
+
+Near key-components, it gets even worse. I am starting to think I should have used a 4-layer PCB, but hey! I saved on much of the cost...
+
+The thing is, though, I have more than just one PCB. I have 3. So when I implemented the low-side switch, I put the switch on PCB2, with the main components on PCB1, so that meant that those PCBs got shook up so badly, and then it all happened again for the high-side switch.
+
+<img width="893" height="319" alt="image" src="https://github.com/user-attachments/assets/51ab1edf-585c-41cd-bf62-b17e18f08c81" />
+
+<sub> PCB2 </sub>
+
+---
+
+I am now going to quickly wire up the button to a GPIO that can then be used to wake it up, and I am going to add a Low-Side MOSFET to shut the entire board down if the battery gets too low. (The only way to re-wake it up will be to power it via USB)
+
+How I will do that, however, I haven't yet figured, but an over-discharged battery can be a bad thing, and I want to avoid that.
+
