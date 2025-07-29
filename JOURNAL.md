@@ -431,3 +431,19 @@ Oki, after way to many double checking and stuff, I have this:
 PGND is the battery ground, while everything else is connected to the normal ground. This results in the MOSFET being able to shut everything down, but as the USB is also connected to the normal ground, when it is plugged in it will work like normal, and I can command it to turn the MOSFET on again.
 
 ### HOURS: 6.5/58.5
+
+## Day 13: (7/29)
+
+The first thing I did was wire up that low side switch we were talking about, but as I said last time, it was pretty painful as there is next to no space left to route wires...
+
+Here are all the components so far,
+
+<img width="781" height="809" alt="image" src="https://github.com/user-attachments/assets/53641e04-dc6f-4b82-9451-fa9396a1148c" />
+
+And with the wires, you can barely even tell where the things go.
+
+<img width="776" height="815" alt="image" src="https://github.com/user-attachments/assets/8269a609-85eb-4ae7-b9ea-dd52fe384e34" />
+
+<img width="654" height="421" alt="image" src="https://github.com/user-attachments/assets/f23629e9-8d07-4ee0-a8e9-e136d394fc14" />
+
+I was lucky enough to be able to fit the components in the above are, thanks to yesterday's work.
