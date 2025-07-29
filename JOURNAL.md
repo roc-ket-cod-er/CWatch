@@ -459,3 +459,23 @@ Just freed up all this space:
 This was all taken up by some LEDs and stuff, but they were only for the charge status pin, which I am just going to connect to an ESP32 pin.
 
 I wonder what I should do with all this space...
+
+Well Now I haave a bit of a problem on my hands. Where should I put my button?
+
+If I leave it as is, well, see for yourself:
+
+<img width="587" height="407" alt="image" src="https://github.com/user-attachments/assets/bf56a54e-e03d-4ac4-8008-213e412d3b9b" />
+
+It just doesn't work. So then, I have to find another spot to put it. I might just be able to put that space to use...
+
+Nope, it just doesn't work. Tried like a gagillion setups, but everytime something fails. I think I am going to go look for another button...
+
+---
+
+That was so much easier than I though, though getting the right filters was a pain. But hey, look at this:
+
+<img width="723" height="686" alt="image" src="https://github.com/user-attachments/assets/88e154de-377a-41cb-b613-b501eb790f2b" />
+
+It is soooo much smaller!
+
+Now to finish the 3D model stuff...
