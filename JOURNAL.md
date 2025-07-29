@@ -416,3 +416,18 @@ I am now going to quickly wire up the button to a GPIO that can then be used to 
 
 How I will do that, however, I haven't yet figured, but an over-discharged battery can be a bad thing, and I want to avoid that.
 
+---
+
+OK, my plan is to have a diode that connects a GPIO to the 5V line. Normally, the IO will be high, ensuring that operation is normal, however when it is time to shut down, it will be sent low. When the signal is low, the MOSFET will disable.
+
+To turn it back on, the USB will be plugged in. This will over-ride the (no longer active) GPIO, causing the board to wake back up and perform like normal. There are still some caveats, but the first step is freeing up board space...
+
+---
+
+Oki, after way to many double checking and stuff, I have this:
+
+<img width="768" height="554" alt="image" src="https://github.com/user-attachments/assets/d77a9683-5692-481f-8ce5-ec7b53876e46" />
+
+PGND is the battery ground, while everything else is connected to the normal ground. This results in the MOSFET being able to shut everything down, but as the USB is also connected to the normal ground, when it is plugged in it will work like normal, and I can command it to turn the MOSFET on again.
+
+### HOURS: 6.5/58.5
