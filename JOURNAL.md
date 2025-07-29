@@ -447,3 +447,15 @@ And with the wires, you can barely even tell where the things go.
 <img width="654" height="421" alt="image" src="https://github.com/user-attachments/assets/f23629e9-8d07-4ee0-a8e9-e136d394fc14" />
 
 I was lucky enough to be able to fit the components in the above are, thanks to yesterday's work.
+
+---
+
+I am now going to go finish up double-checking my entire board, and then on to 3D modelling!
+
+Just freed up all this space:
+
+<img width="836" height="703" alt="image" src="https://github.com/user-attachments/assets/c3775009-cb01-4fc9-a4f7-e457c4a3596c" />
+
+This was all taken up by some LEDs and stuff, but they were only for the charge status pin, which I am just going to connect to an ESP32 pin.
+
+I wonder what I should do with all this space...
