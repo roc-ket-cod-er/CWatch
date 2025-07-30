@@ -506,4 +506,18 @@ Here's what took me sooo much time to make. All I need to do is add the holes fo
 
 ### HOURS: 6/64.5
 
-## DAY 14:
+## DAY 14: Finish. (7/30)
+
+I kid you not, I have finished!
+
+<img width="269" height="407" alt="image" src="https://github.com/user-attachments/assets/b39e3a9a-6624-466e-be7b-24ff65a8b291" />
+<img width="376" height="410" alt="image" src="https://github.com/user-attachments/assets/c485519a-653f-4411-b31c-21e131ac9314" />
+<img width="888" height="603" alt="image" src="https://github.com/user-attachments/assets/6eebb0fd-2b19-49b7-bcf2-1be49e83e945" />
+
+I worked on some miscellaneous stuff, but mostly I worked on the watch band connector
+
+<img width="615" height="516" alt="image" src="https://github.com/user-attachments/assets/3681da35-37fc-4a41-bdfd-4fdb20e88f0f" />
+
+You can see that I have hollowed out some space for the USB-C port, and made an entire assembly to attach to a watch band. That's about all I did in this much time, along with filleting almost every single corner...
+
+### HOURS: 2.5 / 67
