@@ -6,7 +6,7 @@ CWatch is a fully custom watch, designed from scratch. It is based upon an ESP32
 
 <img width="487" height="500" alt="image" src="https://github.com/user-attachments/assets/2aa92c43-c5d0-44d7-bb78-51ede84d061e" />
 
-It has a circular 1.28 inch display, GPS, a mic (for simple voice commands) and other simple functions you can expect from a smart watch. With its 320 mAh lipo, it can run for upwards of 7 days, and automatically shuts down to prevent battery overcharge. It features an RTC that, in full power mode, is guaranteed to be with 50 μS of the real time. It features an 24/7 on Touch-Screen display, and compatability with most smart switches, letting you control your house from your fingertips!
+It has a circular 1.28 inch display, GPS, Wifi, a mic (for simple voice commands) and other simple functions you can expect from a smart watch. With its 320 mAh lipo, it can run for upwards of 7 days, and automatically shuts down to prevent battery overcharge. It features an RTC that, in full power mode, is guaranteed to be with 50 μS of the real time. It features an 24/7 on Touch-Screen display, and compatability with most smart switches, letting you control your house from your fingertips!
 
 ---
 
