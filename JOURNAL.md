@@ -432,7 +432,7 @@ PGND is the battery ground, while everything else is connected to the normal gro
 
 ### HOURS: 6.5/58.5
 
-## Day 13: (7/29)
+## Day 13: Case & Switch (7/29)
 
 The first thing I did was wire up that low side switch we were talking about, but as I said last time, it was pretty painful as there is next to no space left to route wires...
 
@@ -479,3 +479,31 @@ That was so much easier than I though, though getting the right filters was a pa
 It is soooo much smaller!
 
 Now to finish the 3D model stuff...
+
+---
+
+Oki doki!
+
+I think I have finished the main part of the body and stuff, and all I need now is to make the watch band. Here are some images:
+
+<img width="846" height="776" alt="image" src="https://github.com/user-attachments/assets/0f47d8f2-8f8f-45ad-990a-9cd5b723d3b7" />
+
+<sub> notce there is a button, albeit a small one, that will be programmed </sub>
+
+<img width="857" height="762" alt="image" src="https://github.com/user-attachments/assets/f0e97802-895f-4460-a67a-2707489e55f9" />
+
+<img width="779" height="741" alt="image" src="https://github.com/user-attachments/assets/a7dc26e6-e869-4927-8372-035621f45d0f" />
+
+<sub> I also added some standoffs that will hold it better in place until everything is epoxied. </sub>
+
+Well yeah, now to the watch band!
+
+---
+
+<img width="982" height="528" alt="image" src="https://github.com/user-attachments/assets/5a4ba51e-5274-43a0-aac5-3e85a1eaae9f" />
+
+Here's what took me sooo much time to make. All I need to do is add the holes for the watch band thingamajig and I should be set to submit this!
+
+### HOURS: 6/64.5
+
+## DAY 14:
