@@ -5,6 +5,8 @@ description: "A custom smart watch"
 created_at: "2025-07-15"
 ---
 
+67 Hours
+
 # Journal: How I made a watch
 <sub> Hours formatting is "HOURS: today/total" </sub>
 
@@ -519,5 +521,7 @@ I worked on some miscellaneous stuff, but mostly I worked on the watch band conn
 <img width="615" height="516" alt="image" src="https://github.com/user-attachments/assets/3681da35-37fc-4a41-bdfd-4fdb20e88f0f" />
 
 You can see that I have hollowed out some space for the USB-C port, and made an entire assembly to attach to a watch band. That's about all I did in this much time, along with filleting almost every single corner...
+
+Also submitting took me like 1.5ish hours, that I am not adding. I just have soooo many files...
 
 ### HOURS: 2.5 / 67
